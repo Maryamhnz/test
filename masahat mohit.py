@@ -4,3 +4,4 @@ area = a*b
 mohit = 2*(a+b)
 
 print("masahat=",area,"\n", "mohit=" ,mohit)
+print("the end")
