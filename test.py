@@ -8,4 +8,4 @@ else :
 if a**2+c**2==b**2 or b**2+c**2==a**2 or a**2+b**2==c**2 :
     print('bale qaem ast')
 else :
-    print('na qaem nist'
+    print('na qaem nist')
